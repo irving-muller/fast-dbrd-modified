@@ -1,0 +1,455 @@
+====================================================================
+--Started at Mon Sep 24 17:38:54 2012
+--Dataset file = large-openoffice.txt
+--Total Iterations = 5
+====================================================================
+
+
+Iteration 1
+Random seed = 1524084764
+INFO: #reports = 31138
+RankNet Detector
+INFO: skipped reports [(200)duplicate/(3696)all]
+INFO: RankNet: building training pairs...
+INFO: RankNet: built 15720 training pairs.
+INFO: RankNet: built 0 validating pairs.
+
+[unigram] BM25F Parameter...
+[total weight, fixed = 0] = 1.074639
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 2.913982
+[summary b, fixed = 1] = 0.836579
+[description weight, fixed = 1] = 0.277037
+[description b, fixed = 1] = 0.991376
+[k3, fixed = 0] = 0.262820
+
+[bigram] BM25F Parameter...
+[total weight, fixed = 0] = 0.011713
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 3.010947
+[summary b, fixed = 1] = 0.501687
+[description weight, fixed = 1] = 0.927210
+[description b, fixed = 1] = 0.970148
+[k3, fixed = 0] = 0.000314
+
+Surface weights...
+[component weight, fixed = 0] = 2.789032
+[sub component weight, fixed = 0] = 0.182200
+[report type weight, fixed = 0] = 0.605149
+[priority weight, fixed = 0] = 0.285570
+[version weight, fixed = 0] = 3.319805
+
+Elapsed time = 321
+Recall...
+TOP( 1)(/3171)=0.385998
+TOP( 2)(/3171)=0.487228
+TOP( 3)(/3171)=0.541154
+TOP( 4)(/3171)=0.579943
+TOP( 5)(/3171)=0.608641
+TOP( 6)(/3171)=0.630401
+TOP( 7)(/3171)=0.647114
+TOP( 8)(/3171)=0.660990
+TOP( 9)(/3171)=0.672658
+TOP(10)(/3171)=0.682750
+TOP(11)(/3171)=0.696626
+TOP(12)(/3171)=0.708609
+TOP(13)(/3171)=0.714601
+TOP(14)(/3171)=0.721854
+TOP(15)(/3171)=0.728161
+TOP(16)(/3171)=0.735099
+TOP(17)(/3171)=0.740776
+TOP(18)(/3171)=0.745191
+TOP(19)(/3171)=0.750552
+TOP(20)(/3171)=0.754967
+Recall...
+0.385998
+0.487228
+0.541154
+0.579943
+0.608641
+0.630401
+0.647114
+0.660990
+0.672658
+0.682750
+0.696626
+0.708609
+0.714601
+0.721854
+0.728161
+0.735099
+0.740776
+0.745191
+0.750552
+0.754967
+MAP = 0.488737
+
+
+
+Iteration 2
+Random seed = 608802172
+INFO: #reports = 31138
+RankNet Detector
+INFO: skipped reports [(200)duplicate/(3696)all]
+INFO: RankNet: building training pairs...
+INFO: RankNet: built 15720 training pairs.
+INFO: RankNet: built 0 validating pairs.
+
+[unigram] BM25F Parameter...
+[total weight, fixed = 0] = 1.037948
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 2.915633
+[summary b, fixed = 1] = 0.867794
+[description weight, fixed = 1] = 0.319483
+[description b, fixed = 1] = 0.997886
+[k3, fixed = 0] = 0.261293
+
+[bigram] BM25F Parameter...
+[total weight, fixed = 0] = 0.003006
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 3.012975
+[summary b, fixed = 1] = 0.501728
+[description weight, fixed = 1] = 0.909717
+[description b, fixed = 1] = 0.999987
+[k3, fixed = 0] = 0.000000
+
+Surface weights...
+[component weight, fixed = 0] = 2.813187
+[sub component weight, fixed = 0] = 0.194476
+[report type weight, fixed = 0] = 0.680089
+[priority weight, fixed = 0] = 0.547302
+[version weight, fixed = 0] = 3.285369
+
+Elapsed time = 322
+Recall...
+TOP( 1)(/3171)=0.385998
+TOP( 2)(/3171)=0.487543
+TOP( 3)(/3171)=0.536739
+TOP( 4)(/3171)=0.578051
+TOP( 5)(/3171)=0.608010
+TOP( 6)(/3171)=0.629454
+TOP( 7)(/3171)=0.647745
+TOP( 8)(/3171)=0.663198
+TOP( 9)(/3171)=0.674866
+TOP(10)(/3171)=0.685904
+TOP(11)(/3171)=0.693787
+TOP(12)(/3171)=0.703879
+TOP(13)(/3171)=0.712709
+TOP(14)(/3171)=0.721854
+TOP(15)(/3171)=0.729423
+TOP(16)(/3171)=0.735099
+TOP(17)(/3171)=0.740776
+TOP(18)(/3171)=0.745822
+TOP(19)(/3171)=0.748344
+TOP(20)(/3171)=0.753075
+Recall...
+0.385998
+0.487543
+0.536739
+0.578051
+0.608010
+0.629454
+0.647745
+0.663198
+0.674866
+0.685904
+0.693787
+0.703879
+0.712709
+0.721854
+0.729423
+0.735099
+0.740776
+0.745822
+0.748344
+0.753075
+MAP = 0.488311
+
+
+
+Iteration 3
+Random seed = 685080564
+INFO: #reports = 31138
+RankNet Detector
+INFO: skipped reports [(200)duplicate/(3696)all]
+INFO: RankNet: building training pairs...
+INFO: RankNet: built 15720 training pairs.
+INFO: RankNet: built 0 validating pairs.
+
+[unigram] BM25F Parameter...
+[total weight, fixed = 0] = 1.101745
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 2.941505
+[summary b, fixed = 1] = 0.655785
+[description weight, fixed = 1] = 0.280680
+[description b, fixed = 1] = 0.956195
+[k3, fixed = 0] = 0.172210
+
+[bigram] BM25F Parameter...
+[total weight, fixed = 0] = 0.000195
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 3.013538
+[summary b, fixed = 1] = 0.498418
+[description weight, fixed = 1] = 0.850312
+[description b, fixed = 1] = 0.999545
+[k3, fixed = 0] = 0.005708
+
+Surface weights...
+[component weight, fixed = 0] = 2.700318
+[sub component weight, fixed = 0] = 0.262189
+[report type weight, fixed = 0] = 0.486113
+[priority weight, fixed = 0] = 0.619171
+[version weight, fixed = 0] = 3.236293
+
+Elapsed time = 322
+Recall...
+TOP( 1)(/3171)=0.381268
+TOP( 2)(/3171)=0.484390
+TOP( 3)(/3171)=0.536739
+TOP( 4)(/3171)=0.574898
+TOP( 5)(/3171)=0.602649
+TOP( 6)(/3171)=0.626616
+TOP( 7)(/3171)=0.643646
+TOP( 8)(/3171)=0.659098
+TOP( 9)(/3171)=0.670451
+TOP(10)(/3171)=0.678966
+TOP(11)(/3171)=0.690319
+TOP(12)(/3171)=0.702933
+TOP(13)(/3171)=0.710501
+TOP(14)(/3171)=0.716809
+TOP(15)(/3171)=0.722800
+TOP(16)(/3171)=0.729108
+TOP(17)(/3171)=0.736991
+TOP(18)(/3171)=0.742983
+TOP(19)(/3171)=0.746452
+TOP(20)(/3171)=0.752129
+Recall...
+0.381268
+0.484390
+0.536739
+0.574898
+0.602649
+0.626616
+0.643646
+0.659098
+0.670451
+0.678966
+0.690319
+0.702933
+0.710501
+0.716809
+0.722800
+0.729108
+0.736991
+0.742983
+0.746452
+0.752129
+MAP = 0.484466
+
+
+
+Iteration 4
+Random seed = 1750587483
+INFO: #reports = 31138
+RankNet Detector
+INFO: skipped reports [(200)duplicate/(3696)all]
+INFO: RankNet: building training pairs...
+INFO: RankNet: built 15720 training pairs.
+INFO: RankNet: built 0 validating pairs.
+
+[unigram] BM25F Parameter...
+[total weight, fixed = 0] = 1.003742
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 2.949662
+[summary b, fixed = 1] = 0.761512
+[description weight, fixed = 1] = 0.323437
+[description b, fixed = 1] = 0.966902
+[k3, fixed = 0] = 0.216481
+
+[bigram] BM25F Parameter...
+[total weight, fixed = 0] = 0.000308
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 3.010218
+[summary b, fixed = 1] = 0.494198
+[description weight, fixed = 1] = 0.941781
+[description b, fixed = 1] = 0.925951
+[k3, fixed = 0] = 0.017604
+
+Surface weights...
+[component weight, fixed = 0] = 2.877460
+[sub component weight, fixed = 0] = 0.037911
+[report type weight, fixed = 0] = 0.554173
+[priority weight, fixed = 0] = 0.589564
+[version weight, fixed = 0] = 3.390620
+
+Elapsed time = 321
+Recall...
+TOP( 1)(/3171)=0.381583
+TOP( 2)(/3171)=0.483759
+TOP( 3)(/3171)=0.532009
+TOP( 4)(/3171)=0.570482
+TOP( 5)(/3171)=0.602334
+TOP( 6)(/3171)=0.622201
+TOP( 7)(/3171)=0.643015
+TOP( 8)(/3171)=0.656575
+TOP( 9)(/3171)=0.668874
+TOP(10)(/3171)=0.680858
+TOP(11)(/3171)=0.691580
+TOP(12)(/3171)=0.700095
+TOP(13)(/3171)=0.706717
+TOP(14)(/3171)=0.714286
+TOP(15)(/3171)=0.722485
+TOP(16)(/3171)=0.727215
+TOP(17)(/3171)=0.733207
+TOP(18)(/3171)=0.737938
+TOP(19)(/3171)=0.741722
+TOP(20)(/3171)=0.745191
+Recall...
+0.381583
+0.483759
+0.532009
+0.570482
+0.602334
+0.622201
+0.643015
+0.656575
+0.668874
+0.680858
+0.691580
+0.700095
+0.706717
+0.714286
+0.722485
+0.727215
+0.733207
+0.737938
+0.741722
+0.745191
+MAP = 0.483531
+
+
+
+Iteration 5
+Random seed = 1108521922
+INFO: #reports = 31138
+RankNet Detector
+INFO: skipped reports [(200)duplicate/(3696)all]
+INFO: RankNet: building training pairs...
+INFO: RankNet: built 15720 training pairs.
+INFO: RankNet: built 0 validating pairs.
+
+[unigram] BM25F Parameter...
+[total weight, fixed = 0] = 1.003998
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 2.968231
+[summary b, fixed = 1] = 0.793211
+[description weight, fixed = 1] = 0.327727
+[description b, fixed = 1] = 0.991568
+[k3, fixed = 0] = 0.310099
+
+[bigram] BM25F Parameter...
+[total weight, fixed = 0] = 0.000000
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 3.012246
+[summary b, fixed = 1] = 0.498514
+[description weight, fixed = 1] = 0.927615
+[description b, fixed = 1] = 0.936842
+[k3, fixed = 0] = 0.008305
+
+Surface weights...
+[component weight, fixed = 0] = 2.803966
+[sub component weight, fixed = 0] = 0.077138
+[report type weight, fixed = 0] = 0.659949
+[priority weight, fixed = 0] = 0.518687
+[version weight, fixed = 0] = 3.345736
+
+Elapsed time = 322
+Recall...
+TOP( 1)(/3171)=0.384737
+TOP( 2)(/3171)=0.486597
+TOP( 3)(/3171)=0.538001
+TOP( 4)(/3171)=0.577105
+TOP( 5)(/3171)=0.606433
+TOP( 6)(/3171)=0.629770
+TOP( 7)(/3171)=0.645853
+TOP( 8)(/3171)=0.661936
+TOP( 9)(/3171)=0.673605
+TOP(10)(/3171)=0.682750
+TOP(11)(/3171)=0.694734
+TOP(12)(/3171)=0.706402
+TOP(13)(/3171)=0.714286
+TOP(14)(/3171)=0.722800
+TOP(15)(/3171)=0.729423
+TOP(16)(/3171)=0.734784
+TOP(17)(/3171)=0.740460
+TOP(18)(/3171)=0.744560
+TOP(19)(/3171)=0.748975
+TOP(20)(/3171)=0.753075
+Recall...
+0.384737
+0.486597
+0.538001
+0.577105
+0.606433
+0.629770
+0.645853
+0.661936
+0.673605
+0.682750
+0.694734
+0.706402
+0.714286
+0.722800
+0.729423
+0.734784
+0.740460
+0.744560
+0.748975
+0.753075
+MAP = 0.487464
+
+
+
+Average Average Recall...
+TOP( 1)=0.383917
+TOP( 2)=0.485904
+TOP( 3)=0.536928
+TOP( 4)=0.576096
+TOP( 5)=0.605613
+TOP( 6)=0.627688
+TOP( 7)=0.645475
+TOP( 8)=0.660360
+TOP( 9)=0.672091
+TOP(10)=0.682245
+TOP(11)=0.693409
+TOP(12)=0.704383
+TOP(13)=0.711763
+TOP(14)=0.719521
+TOP(15)=0.726459
+TOP(16)=0.732261
+TOP(17)=0.738442
+TOP(18)=0.743299
+TOP(19)=0.747209
+TOP(20)=0.751687
+Average Average Recall...
+0.383917
+0.485904
+0.536928
+0.576096
+0.605613
+0.627688
+0.645475
+0.660360
+0.672091
+0.682245
+0.693409
+0.704383
+0.711763
+0.719521
+0.726459
+0.732261
+0.738442
+0.743299
+0.747209
+0.751687
+Average MAP = 0.486502
