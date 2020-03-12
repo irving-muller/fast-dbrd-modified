@@ -1,0 +1,16 @@
+nohup: ignoring input
+reading reports from /home/irving/workspace/duplicate_bug_report/dataset/sun_2011/eclipse_2001-2007_2008/dbrd_validation.txt...
+reading time-stamps from /home/irving/workspace/duplicate_bug_report/dataset/sun_2011/eclipse_2001-2007_2008/timestamp_file.txt...
+Iteration 1
+INFO: skipped reports [(27481)duplicate/(198183)all]
+INFO: RankNet: building training pairs...
+INFO: RankNet: report repository size = 198185
+INFO: RankNet: report bucket count = 170704
+INFO: RankNet: master report count = 170704
+INFO: RankNet: built 212400 training pairs.
+INFO: RankNet: built 0 validating pairs.
+........................................................................
+Elapsed time = 165
+
+
+

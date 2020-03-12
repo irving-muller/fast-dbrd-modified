@@ -1,0 +1,553 @@
+====================================================================
+--Started at Tue Sep 17 00:54:04 2019
+--Dataset file = /home/irving/workspace/duplicate_bug_report/dataset/sun_2011/open_office_2001-2008_2010/dbrd_test.txt
+--Total Iterations = 1
+--Indexing Type = NO_INDEXING
+====================================================================
+
+
+Iteration 1
+Random seed = 101982391
+INFO: #reports = 116228
+RankNet Detector
+INFO: skipped reports [(14284)duplicate/(84889)all]
+INFO: RankNet: building training pairs...
+INFO: RankNet: built 978540 training pairs.
+INFO: RankNet: built 0 validating pairs.
+
+[unigram] BM25F Parameter...
+[total weight, fixed = 0] = 3.051590
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 0.387240
+[summary b, fixed = 1] = 0.998741
+[description weight, fixed = 1] = 0.080992
+[description b, fixed = 1] = 0.909884
+[k3, fixed = 0] = 0.314998
+
+[bigram] BM25F Parameter...
+[total weight, fixed = 0] = 0.005140
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 2.953281
+[summary b, fixed = 1] = 0.604183
+[description weight, fixed = 1] = 0.970854
+[description b, fixed = 1] = 0.843258
+[k3, fixed = 0] = 0.000013
+
+Surface weights...
+[component weight, fixed = 0] = 3.080782
+[sub component weight, fixed = 0] = 0.441744
+[report type weight, fixed = 0] = 1.405409
+[priority weight, fixed = 0] = 0.337055
+[version weight, fixed = 1] = 0.000000
+INFO: the master set (25804) couldn't be reached (diff=1413,query=85017)
+INFO: the master set (28430) couldn't be reached (diff=1350,query=85047)
+INFO: the master set (26981) couldn't be reached (diff=1129,query=85409)
+INFO: the master set (3886) couldn't be reached (diff=2118,query=85470)
+INFO: the master set (13645) couldn't be reached (diff=1629,query=85628)
+INFO: the master set (19593) couldn't be reached (diff=1599,query=85780)
+INFO: the master set (8303) couldn't be reached (diff=1937,query=85791)
+INFO: the master set (24781) couldn't be reached (diff=1473,query=85889)
+INFO: the master set (22018) couldn't be reached (diff=1556,query=85895)
+INFO: the master set (31115) couldn't be reached (diff=1302,query=86119)
+INFO: the master set (3504) couldn't be reached (diff=1125,query=86376)
+INFO: the master set (25065) couldn't be reached (diff=1481,query=86404)
+INFO: the master set (24513) couldn't be reached (diff=1499,query=86420)
+INFO: the master set (5117) couldn't be reached (diff=1434,query=86452)
+INFO: the master set (38352) couldn't be reached (diff=1184,query=86601)
+INFO: the master set (2542) couldn't be reached (diff=1765,query=86606)
+INFO: the master set (33973) couldn't be reached (diff=1275,query=86783)
+INFO: the master set (13522) couldn't be reached (diff=1387,query=86943)
+INFO: the master set (32712) couldn't be reached (diff=1319,query=87162)
+INFO: the master set (12138) couldn't be reached (diff=1460,query=87176)
+INFO: the master set (3031) couldn't be reached (diff=1495,query=87265)
+INFO: the master set (21128) couldn't be reached (diff=1620,query=87275)
+INFO: the master set (2425) couldn't be reached (diff=2299,query=87317)
+INFO: the master set (5540) couldn't be reached (diff=2129,query=87776)
+INFO: the master set (33553) couldn't be reached (diff=1315,query=87903)
+INFO: the master set (16937) couldn't be reached (diff=1726,query=87956)
+INFO: the master set (23075) couldn't be reached (diff=1592,query=88158)
+INFO: the master set (26236) couldn't be reached (diff=1495,query=88161)
+INFO: the master set (13654) couldn't be reached (diff=1818,query=88179)
+INFO: the master set (17188) couldn't be reached (diff=1243,query=88419)
+INFO: the master set (6352) couldn't be reached (diff=2111,query=88437)
+INFO: the master set (35122) couldn't be reached (diff=1291,query=88507)
+INFO: the master set (5550) couldn't be reached (diff=1621,query=88511)
+INFO: the master set (29986) couldn't be reached (diff=1205,query=88918)
+INFO: the master set (20103) couldn't be reached (diff=1680,query=88942)
+INFO: the master set (27565) couldn't be reached (diff=1489,query=89011)
+INFO: the master set (9643) couldn't be reached (diff=1987,query=89088)
+INFO: the master set (44285) couldn't be reached (diff=1157,query=89125)
+INFO: the master set (23074) couldn't be reached (diff=1619,query=89145)
+INFO: the master set (30202) couldn't be reached (diff=1135,query=89166)
+INFO: the master set (23118) couldn't be reached (diff=1619,query=89201)
+INFO: the master set (20701) couldn't be reached (diff=1681,query=89291)
+INFO: the master set (19227) couldn't be reached (diff=1707,query=89298)
+INFO: the master set (16987) couldn't be reached (diff=1171,query=89593)
+INFO: the master set (4183) couldn't be reached (diff=1447,query=89663)
+INFO: the master set (28469) couldn't be reached (diff=1485,query=89754)
+INFO: the master set (21604) couldn't be reached (diff=1673,query=89769)
+INFO: the master set (34609) couldn't be reached (diff=1307,query=89798)
+INFO: the master set (33267) couldn't be reached (diff=1371,query=89801)
+INFO: the master set (20038) couldn't be reached (diff=1323,query=89913)
+INFO: the master set (15422) couldn't be reached (diff=1822,query=90274)
+INFO: the master set (26929) couldn't be reached (diff=1482,query=90325)
+INFO: the master set (45418) couldn't be reached (diff=1175,query=90418)
+INFO: the master set (25428) couldn't be reached (diff=1581,query=90613)
+INFO: the master set (42025) couldn't be reached (diff=1223,query=90621)
+INFO: the master set (15421) couldn't be reached (diff=1844,query=91032)
+INFO: the master set (42072) couldn't be reached (diff=1217,query=91252)
+INFO: the master set (40050) couldn't be reached (diff=1272,query=91262)
+INFO: the master set (14454) couldn't be reached (diff=1875,query=91310)
+INFO: the master set (45317) couldn't be reached (diff=1161,query=91476)
+INFO: the master set (24049) couldn't be reached (diff=1651,query=91526)
+INFO: the master set (21161) couldn't be reached (diff=1233,query=91682)
+INFO: the master set (24363) couldn't be reached (diff=1646,query=91690)
+INFO: the master set (16337) couldn't be reached (diff=1847,query=92011)
+INFO: the master set (22945) couldn't be reached (diff=1704,query=92192)
+INFO: the master set (883) couldn't be reached (diff=2634,query=92196)
+INFO: the master set (48935) couldn't be reached (diff=1179,query=92319)
+INFO: the master set (40794) couldn't be reached (diff=1291,query=92340)
+INFO: the master set (9402) couldn't be reached (diff=2084,query=92456)
+INFO: the master set (22728) couldn't be reached (diff=1719,query=92458)
+INFO: the master set (46284) couldn't be reached (diff=1225,query=92503)
+INFO: the master set (50170) couldn't be reached (diff=1162,query=92531)
+INFO: the master set (5432) couldn't be reached (diff=2266,query=92702)
+INFO: the master set (7516) couldn't be reached (diff=1317,query=92917)
+INFO: the master set (18326) couldn't be reached (diff=1830,query=92959)
+INFO: the master set (17637) couldn't be reached (diff=1850,query=93023)
+INFO: the master set (38992) couldn't be reached (diff=1140,query=93024)
+INFO: the master set (22016) couldn't be reached (diff=1756,query=93049)
+INFO: the master set (4682) couldn't be reached (diff=2199,query=93066)
+INFO: the master set (28670) couldn't be reached (diff=1394,query=93147)
+INFO: the master set (34546) couldn't be reached (diff=1435,query=93213)
+INFO: the master set (22975) couldn't be reached (diff=1513,query=93370)
+INFO: the master set (16156) couldn't be reached (diff=1895,query=93426)
+INFO: the master set (35339) couldn't be reached (diff=1428,query=93611)
+INFO: the master set (3560) couldn't be reached (diff=1773,query=93706)
+INFO: the master set (6138) couldn't be reached (diff=2269,query=93795)
+INFO: the master set (40929) couldn't be reached (diff=1332,query=93835)
+INFO: the master set (35178) couldn't be reached (diff=1436,query=93858)
+INFO: the master set (39592) couldn't be reached (diff=1358,query=93878)
+INFO: the master set (932) couldn't be reached (diff=1206,query=94206)
+INFO: the master set (49870) couldn't be reached (diff=1220,query=94356)
+INFO: the master set (24882) couldn't be reached (diff=1707,query=94475)
+INFO: the master set (12771) couldn't be reached (diff=1436,query=94497)
+INFO: the master set (11928) couldn't be reached (diff=1376,query=94538)
+INFO: the master set (41919) couldn't be reached (diff=1342,query=94645)
+INFO: the master set (45116) couldn't be reached (diff=1301,query=94699)
+INFO: the master set (21387) couldn't be reached (diff=1818,query=94794)
+INFO: the master set (3941) couldn't be reached (diff=2376,query=94826)
+INFO: the master set (42865) couldn't be reached (diff=1338,query=94945)
+INFO: the master set (35247) couldn't be reached (diff=1467,query=94982)
+INFO: the master set (9437) couldn't be reached (diff=1479,query=95072)
+INFO: the master set (21668) couldn't be reached (diff=1821,query=95099)
+INFO: the master set (37586) couldn't be reached (diff=1429,query=95252)
+INFO: the master set (30870) couldn't be reached (diff=1578,query=95421)
+INFO: the master set (48739) couldn't be reached (diff=1270,query=95441)
+INFO: the master set (32711) couldn't be reached (diff=1542,query=95514)
+INFO: the master set (56708) couldn't be reached (diff=1097,query=95517)
+INFO: the master set (1339) couldn't be reached (diff=2651,query=95557)
+INFO: the master set (19508) couldn't be reached (diff=1876,query=95681)
+INFO: the master set (45563) couldn't be reached (diff=1321,query=95685)
+INFO: the master set (30588) couldn't be reached (diff=1592,query=95743)
+INFO: the master set (29846) couldn't be reached (diff=1614,query=95797)
+INFO: the master set (21012) couldn't be reached (diff=1852,query=95846)
+INFO: the master set (17565) couldn't be reached (diff=1126,query=95894)
+INFO: the master set (24563) couldn't be reached (diff=1753,query=95935)
+INFO: the master set (14487) couldn't be reached (diff=1166,query=96048)
+INFO: the master set (3349) couldn't be reached (diff=1881,query=96147)
+INFO: the master set (25141) couldn't be reached (diff=1239,query=96286)
+INFO: the master set (56459) couldn't be reached (diff=1123,query=96364)
+INFO: the master set (7532) couldn't be reached (diff=1437,query=96375)
+INFO: the master set (16398) couldn't be reached (diff=1672,query=96416)
+INFO: the master set (51469) couldn't be reached (diff=1239,query=96419)
+INFO: the master set (55977) couldn't be reached (diff=1147,query=96879)
+INFO: the master set (50637) couldn't be reached (diff=1276,query=97046)
+INFO: the master set (11734) couldn't be reached (diff=1147,query=97079)
+INFO: the master set (54535) couldn't be reached (diff=1186,query=97167)
+INFO: the master set (29934) couldn't be reached (diff=1650,query=97236)
+INFO: the master set (48286) couldn't be reached (diff=1328,query=97284)
+INFO: the master set (44915) couldn't be reached (diff=1314,query=97330)
+INFO: the master set (37679) couldn't be reached (diff=1486,query=97376)
+INFO: the master set (3788) couldn't be reached (diff=1149,query=97927)
+INFO: the master set (55806) couldn't be reached (diff=1188,query=97984)
+INFO: the master set (27230) couldn't be reached (diff=1461,query=98045)
+INFO: the master set (50881) couldn't be reached (diff=1308,query=98108)
+INFO: the master set (26593) couldn't be reached (diff=1770,query=98214)
+INFO: the master set (13366) couldn't be reached (diff=2115,query=98464)
+INFO: the master set (60335) couldn't be reached (diff=1111,query=98502)
+INFO: the master set (14506) couldn't be reached (diff=2011,query=98534)
+INFO: the master set (58328) couldn't be reached (diff=1167,query=98712)
+INFO: the master set (52552) couldn't be reached (diff=1287,query=98759)
+INFO: the master set (27081) couldn't be reached (diff=1774,query=98900)
+INFO: the master set (28959) couldn't be reached (diff=1735,query=98996)
+INFO: the master set (16751) couldn't be reached (diff=2040,query=99089)
+INFO: the master set (11004) couldn't be reached (diff=2211,query=99254)
+INFO: the master set (48397) couldn't be reached (diff=1270,query=99418)
+INFO: the master set (16786) couldn't be reached (diff=1446,query=99472)
+INFO: the master set (45486) couldn't be reached (diff=1436,query=99499)
+INFO: the master set (28465) couldn't be reached (diff=1764,query=99617)
+INFO: the master set (58417) couldn't be reached (diff=1192,query=99753)
+INFO: the master set (22396) couldn't be reached (diff=1939,query=99852)
+INFO: the master set (23868) couldn't be reached (diff=1905,query=100181)
+INFO: the master set (13831) couldn't be reached (diff=2153,query=100279)
+INFO: the master set (25795) couldn't be reached (diff=1852,query=100386)
+INFO: the master set (10000) couldn't be reached (diff=2291,query=100403)
+INFO: the master set (25857) couldn't be reached (diff=1851,query=100440)
+INFO: the master set (11174) couldn't be reached (diff=1097,query=100448)
+INFO: the master set (46222) couldn't be reached (diff=1463,query=100699)
+INFO: the master set (41210) couldn't be reached (diff=1517,query=100741)
+INFO: the master set (54841) couldn't be reached (diff=1299,query=101022)
+INFO: the master set (31131) couldn't be reached (diff=1298,query=101096)
+INFO: the master set (50510) couldn't be reached (diff=1407,query=101125)
+INFO: the master set (60492) couldn't be reached (diff=1192,query=101193)
+INFO: the master set (60368) couldn't be reached (diff=1126,query=101237)
+INFO: the master set (46957) couldn't be reached (diff=1476,query=101268)
+INFO: the master set (57749) couldn't be reached (diff=1267,query=101465)
+INFO: the master set (28316) couldn't be reached (diff=1835,query=101502)
+INFO: the master set (30153) couldn't be reached (diff=1790,query=101671)
+INFO: the master set (22625) couldn't be reached (diff=1998,query=101713)
+INFO: the master set (9953) couldn't be reached (diff=1490,query=101789)
+INFO: the master set (36068) couldn't be reached (diff=1666,query=102036)
+INFO: the master set (33799) couldn't be reached (diff=1719,query=102070)
+INFO: the master set (15582) couldn't be reached (diff=2172,query=102197)
+INFO: the master set (26783) couldn't be reached (diff=1891,query=102240)
+INFO: the master set (50574) couldn't be reached (diff=1449,query=102363)
+INFO: the master set (43680) couldn't be reached (diff=1554,query=102406)
+INFO: the master set (61898) couldn't be reached (diff=1211,query=102553)
+INFO: the master set (8812) couldn't be reached (diff=2259,query=102562)
+INFO: the master set (51182) couldn't be reached (diff=1370,query=102669)
+INFO: the master set (30336) couldn't be reached (diff=1824,query=102764)
+INFO: the master set (5736) couldn't be reached (diff=2429,query=102821)
+INFO: the master set (19326) couldn't be reached (diff=2107,query=102823)
+INFO: the master set (29105) couldn't be reached (diff=1165,query=102840)
+INFO: the master set (26641) couldn't be reached (diff=1919,query=102914)
+INFO: the master set (34562) couldn't be reached (diff=1106,query=102952)
+INFO: the master set (19495) couldn't be reached (diff=2107,query=102962)
+INFO: the master set (54794) couldn't be reached (diff=1376,query=103143)
+INFO: the master set (19544) couldn't be reached (diff=2115,query=103189)
+INFO: the master set (29804) couldn't be reached (diff=1852,query=103190)
+INFO: the master set (11870) couldn't be reached (diff=2318,query=103279)
+INFO: the master set (32638) couldn't be reached (diff=1796,query=103356)
+INFO: the master set (63537) couldn't be reached (diff=1203,query=103420)
+INFO: the master set (61352) couldn't be reached (diff=1256,query=103432)
+INFO: the master set (52589) couldn't be reached (diff=1446,query=103515)
+INFO: the master set (32690) couldn't be reached (diff=1802,query=103522)
+INFO: the master set (61096) couldn't be reached (diff=1272,query=103639)
+INFO: the master set (56388) couldn't be reached (diff=1368,query=103657)
+INFO: the master set (11111) couldn't be reached (diff=1277,query=103698)
+INFO: the master set (27153) couldn't be reached (diff=1940,query=103724)
+INFO: the master set (47895) couldn't be reached (diff=1555,query=103761)
+INFO: the master set (25368) couldn't be reached (diff=1990,query=103784)
+INFO: the master set (33230) couldn't be reached (diff=1806,query=103895)
+INFO: the master set (14095) couldn't be reached (diff=1191,query=103919)
+INFO: the master set (19077) couldn't be reached (diff=2098,query=103943)
+INFO: the master set (13205) couldn't be reached (diff=2308,query=103974)
+INFO: the master set (41357) couldn't be reached (diff=1650,query=103985)
+INFO: the master set (9570) couldn't be reached (diff=2443,query=103987)
+INFO: the master set (5998) couldn't be reached (diff=1239,query=104005)
+INFO: the master set (56420) couldn't be reached (diff=1383,query=104022)
+INFO: the master set (35540) couldn't be reached (diff=1758,query=104079)
+INFO: the master set (21289) couldn't be reached (diff=2127,query=104168)
+INFO: the master set (57433) couldn't be reached (diff=1374,query=104169)
+INFO: the master set (67291) couldn't be reached (diff=1127,query=104185)
+INFO: the master set (25113) couldn't be reached (diff=2016,query=104202)
+INFO: the master set (31176) couldn't be reached (diff=1865,query=104258)
+INFO: the master set (65778) couldn't be reached (diff=1185,query=104429)
+INFO: the master set (61513) couldn't be reached (diff=1299,query=104464)
+INFO: the master set (6401) couldn't be reached (diff=1503,query=104692)
+INFO: the master set (28406) couldn't be reached (diff=1826,query=104813)
+INFO: the master set (50983) couldn't be reached (diff=1540,query=104859)
+INFO: the master set (5958) couldn't be reached (diff=1168,query=104860)
+INFO: the master set (42985) couldn't be reached (diff=1641,query=104881)
+INFO: the master set (58307) couldn't be reached (diff=1269,query=104903)
+INFO: the master set (66656) couldn't be reached (diff=1177,query=104998)
+INFO: the master set (49155) couldn't be reached (diff=1583,query=104999)
+INFO: the master set (26666) couldn't be reached (diff=2004,query=105005)
+INFO: the master set (53910) couldn't be reached (diff=1475,query=105018)
+INFO: the master set (24374) couldn't be reached (diff=2069,query=105040)
+INFO: the master set (34662) couldn't be reached (diff=1821,query=105256)
+INFO: the master set (16562) couldn't be reached (diff=1334,query=105269)
+INFO: the master set (48126) couldn't be reached (diff=1612,query=105292)
+INFO: the master set (44181) couldn't be reached (diff=1668,query=105412)
+INFO: the master set (50547) couldn't be reached (diff=1209,query=105416)
+INFO: the master set (21599) couldn't be reached (diff=2168,query=105462)
+INFO: the master set (29152) couldn't be reached (diff=1965,query=105464)
+INFO: the master set (11054) couldn't be reached (diff=2436,query=105470)
+INFO: the master set (61636) couldn't be reached (diff=1338,query=105601)
+INFO: the master set (59209) couldn't be reached (diff=1397,query=105723)
+INFO: the master set (65970) couldn't be reached (diff=1231,query=105857)
+INFO: the master set (37095) couldn't be reached (diff=1797,query=105884)
+INFO: the master set (27878) couldn't be reached (diff=1168,query=106078)
+INFO: the master set (66619) couldn't be reached (diff=1217,query=106126)
+INFO: the master set (54681) couldn't be reached (diff=1500,query=106259)
+INFO: the master set (67020) couldn't be reached (diff=1210,query=106282)
+INFO: the master set (32227) couldn't be reached (diff=1916,query=106307)
+INFO: the master set (49821) couldn't be reached (diff=1616,query=106360)
+INFO: the master set (28503) couldn't be reached (diff=2008,query=106377)
+INFO: the master set (7911) couldn't be reached (diff=2589,query=106404)
+INFO: the master set (47740) couldn't be reached (diff=1654,query=106408)
+INFO: the master set (67018) couldn't be reached (diff=1222,query=106702)
+INFO: the master set (59818) couldn't be reached (diff=1415,query=106817)
+INFO: the master set (46076) couldn't be reached (diff=1592,query=106923)
+INFO: the master set (20525) couldn't be reached (diff=2079,query=107063)
+INFO: the master set (64216) couldn't be reached (diff=1320,query=107090)
+INFO: the master set (49413) couldn't be reached (diff=1652,query=107176)
+INFO: the master set (15457) couldn't be reached (diff=2359,query=107177)
+INFO: the master set (30127) couldn't be reached (diff=1992,query=107222)
+INFO: the master set (46535) couldn't be reached (diff=1700,query=107278)
+INFO: the master set (61487) couldn't be reached (diff=1397,query=107305)
+INFO: the master set (31764) couldn't be reached (diff=1959,query=107324)
+INFO: the master set (13540) couldn't be reached (diff=2427,query=107540)
+INFO: the master set (64741) couldn't be reached (diff=1323,query=107543)
+INFO: the master set (30015) couldn't be reached (diff=1561,query=107570)
+INFO: the master set (41413) couldn't be reached (diff=1405,query=107581)
+INFO: the master set (61526) couldn't be reached (diff=1407,query=107585)
+INFO: the master set (59369) couldn't be reached (diff=1458,query=107632)
+INFO: the master set (26589) couldn't be reached (diff=2100,query=107705)
+INFO: the master set (12248) couldn't be reached (diff=2472,query=107721)
+INFO: the master set (15773) couldn't be reached (diff=1498,query=107770)
+INFO: the master set (66028) couldn't be reached (diff=1299,query=107844)
+INFO: the master set (27634) couldn't be reached (diff=2083,query=107849)
+INFO: the master set (27417) couldn't be reached (diff=2094,query=107907)
+INFO: the master set (38085) couldn't be reached (diff=1854,query=107926)
+INFO: the master set (69970) couldn't be reached (diff=1185,query=107946)
+INFO: the master set (7028) couldn't be reached (diff=2326,query=107950)
+INFO: the master set (28535) couldn't be reached (diff=2069,query=107963)
+INFO: the master set (60164) couldn't be reached (diff=1451,query=107969)
+INFO: the master set (32257) couldn't be reached (diff=1635,query=107977)
+INFO: the master set (14163) couldn't be reached (diff=1260,query=108218)
+INFO: the master set (12567) couldn't be reached (diff=2494,query=108392)
+INFO: the master set (5929) couldn't be reached (diff=1435,query=108399)
+INFO: the master set (35718) couldn't be reached (diff=1918,query=108413)
+INFO: the master set (64125) couldn't be reached (diff=1381,query=108438)
+INFO: the master set (24823) couldn't be reached (diff=2185,query=108447)
+INFO: the master set (55377) couldn't be reached (diff=1569,query=108470)
+INFO: the master set (29317) couldn't be reached (diff=2073,query=108493)
+INFO: the master set (1575) couldn't be reached (diff=3068,query=108566)
+INFO: the master set (54400) couldn't be reached (diff=1598,query=108628)
+INFO: the master set (63370) couldn't be reached (diff=1301,query=108706)
+INFO: the master set (26855) couldn't be reached (diff=2137,query=108731)
+INFO: the master set (23863) couldn't be reached (diff=2229,query=108802)
+INFO: the master set (46027) couldn't be reached (diff=1776,query=108857)
+INFO: the master set (68503) couldn't be reached (diff=1273,query=108862)
+INFO: the master set (62134) couldn't be reached (diff=1448,query=108913)
+INFO: the master set (14336) couldn't be reached (diff=2460,query=108915)
+INFO: the master set (20253) couldn't be reached (diff=2321,query=108960)
+INFO: the master set (4887) couldn't be reached (diff=2824,query=109003)
+INFO: the master set (17449) couldn't be reached (diff=1361,query=109187)
+INFO: the master set (48012) couldn't be reached (diff=1182,query=109228)
+INFO: the master set (73641) couldn't be reached (diff=1122,query=109234)
+INFO: the master set (58369) couldn't be reached (diff=1545,query=109268)
+INFO: the master set (13707) couldn't be reached (diff=2493,query=109379)
+INFO: the master set (58601) couldn't be reached (diff=1543,query=109448)
+INFO: the master set (20823) couldn't be reached (diff=2327,query=109449)
+INFO: the master set (54906) couldn't be reached (diff=1424,query=109481)
+INFO: the master set (2497) couldn't be reached (diff=1329,query=109493)
+INFO: the master set (5460) couldn't be reached (diff=2331,query=109509)
+INFO: the master set (72530) couldn't be reached (diff=1167,query=109510)
+INFO: the master set (68212) couldn't be reached (diff=1295,query=109519)
+INFO: the master set (16182) couldn't be reached (diff=2432,query=109530)
+INFO: the master set (9544) couldn't be reached (diff=2648,query=109591)
+INFO: the master set (56892) couldn't be reached (diff=1585,query=109716)
+INFO: the master set (15765) couldn't be reached (diff=2449,query=109749)
+INFO: the master set (33893) couldn't be reached (diff=1286,query=109836)
+INFO: the master set (17561) couldn't be reached (diff=2414,query=109928)
+INFO: the master set (13866) couldn't be reached (diff=2509,query=110014)
+INFO: the master set (15756) couldn't be reached (diff=2011,query=110016)
+INFO: the master set (4274) couldn't be reached (diff=1509,query=110024)
+INFO: the master set (28781) couldn't be reached (diff=1235,query=110046)
+INFO: the master set (49023) couldn't be reached (diff=1768,query=110095)
+INFO: the master set (2762) couldn't be reached (diff=1637,query=110115)
+INFO: the master set (18465) couldn't be reached (diff=2408,query=110365)
+INFO: the master set (7410) couldn't be reached (diff=1885,query=110570)
+INFO: the master set (22756) couldn't be reached (diff=2322,query=110576)
+INFO: the master set (1127) couldn't be reached (diff=2290,query=110597)
+INFO: the master set (47398) couldn't be reached (diff=1817,query=110607)
+INFO: the master set (59461) couldn't be reached (diff=1576,query=110761)
+INFO: the master set (64704) couldn't be reached (diff=1448,query=110782)
+INFO: the master set (73592) couldn't be reached (diff=1180,query=110800)
+INFO: the master set (71013) couldn't be reached (diff=1261,query=110832)
+INFO: the master set (63827) couldn't be reached (diff=1275,query=110835)
+INFO: the master set (59023) couldn't be reached (diff=1589,query=110860)
+INFO: the master set (26414) couldn't be reached (diff=2229,query=110983)
+INFO: the master set (63216) couldn't be reached (diff=1499,query=111061)
+INFO: the master set (33814) couldn't be reached (diff=1140,query=111161)
+INFO: the master set (9717) couldn't be reached (diff=2499,query=111201)
+INFO: the master set (26821) couldn't be reached (diff=2227,query=111203)
+INFO: the master set (17631) couldn't be reached (diff=2471,query=111377)
+INFO: the master set (28422) couldn't be reached (diff=2199,query=111394)
+INFO: the master set (73097) couldn't be reached (diff=1130,query=111458)
+INFO: the master set (19817) couldn't be reached (diff=1384,query=111544)
+INFO: the master set (26826) couldn't be reached (diff=2245,query=111627)
+INFO: the master set (27685) couldn't be reached (diff=2227,query=111646)
+INFO: the master set (42464) couldn't be reached (diff=1568,query=111807)
+INFO: the master set (50398) couldn't be reached (diff=1814,query=111821)
+INFO: the master set (67345) couldn't be reached (diff=1414,query=111866)
+INFO: the master set (67242) couldn't be reached (diff=1416,query=111869)
+INFO: the master set (22614) couldn't be reached (diff=2383,query=111897)
+INFO: the master set (27437) couldn't be reached (diff=2244,query=111923)
+INFO: the master set (51614) couldn't be reached (diff=1792,query=112024)
+INFO: the master set (21424) couldn't be reached (diff=2420,query=112122)
+INFO: the master set (63225) couldn't be reached (diff=1545,query=112198)
+INFO: the master set (73511) couldn't be reached (diff=1242,query=112296)
+INFO: the master set (27804) couldn't be reached (diff=2175,query=112321)
+INFO: the master set (15842) couldn't be reached (diff=2550,query=112343)
+INFO: the master set (78419) couldn't be reached (diff=1098,query=112409)
+INFO: the master set (5477) couldn't be reached (diff=1576,query=112426)
+INFO: the master set (19503) couldn't be reached (diff=1567,query=112454)
+INFO: the master set (75256) couldn't be reached (diff=1195,query=112456)
+INFO: the master set (63771) couldn't be reached (diff=1545,query=112569)
+INFO: the master set (36306) couldn't be reached (diff=1193,query=112570)
+INFO: the master set (75358) couldn't be reached (diff=1198,query=112624)
+INFO: the master set (49907) couldn't be reached (diff=1196,query=112682)
+INFO: the master set (61816) couldn't be reached (diff=1487,query=112689)
+INFO: the master set (2068) couldn't be reached (diff=3160,query=112696)
+INFO: the master set (46156) couldn't be reached (diff=1919,query=112800)
+INFO: the master set (51497) couldn't be reached (diff=1830,query=112976)
+INFO: the master set (47990) couldn't be reached (diff=1902,query=113018)
+INFO: the master set (67818) couldn't be reached (diff=1442,query=113034)
+INFO: the master set (64850) couldn't be reached (diff=1221,query=113057)
+INFO: the master set (50830) couldn't be reached (diff=1855,query=113162)
+INFO: the master set (74574) couldn't be reached (diff=1249,query=113218)
+INFO: the master set (72211) couldn't be reached (diff=1325,query=113235)
+INFO: the master set (68990) couldn't be reached (diff=1424,query=113345)
+INFO: the master set (55537) couldn't be reached (diff=1749,query=113355)
+INFO: the master set (61641) couldn't be reached (diff=1141,query=113451)
+INFO: the master set (69756) couldn't be reached (diff=1207,query=113460)
+INFO: the master set (80042) couldn't be reached (diff=1100,query=113533)
+INFO: the master set (11370) couldn't be reached (diff=2728,query=113556)
+INFO: the master set (10610) couldn't be reached (diff=2758,query=113573)
+INFO: the master set (60781) couldn't be reached (diff=1659,query=113661)
+INFO: the master set (54325) couldn't be reached (diff=1804,query=113921)
+INFO: the master set (10867) couldn't be reached (diff=1674,query=113934)
+INFO: the master set (52640) couldn't be reached (diff=1847,query=113974)
+INFO: the master set (34579) couldn't be reached (diff=2158,query=114043)
+INFO: the master set (76241) couldn't be reached (diff=1232,query=114103)
+INFO: the master set (23997) couldn't be reached (diff=2433,query=114169)
+INFO: the master set (58770) couldn't be reached (diff=1735,query=114270)
+INFO: the master set (32915) couldn't be reached (diff=2216,query=114338)
+INFO: the master set (17444) couldn't be reached (diff=2599,query=114358)
+INFO: the master set (18737) couldn't be reached (diff=1748,query=114571)
+INFO: the master set (4770) couldn't be reached (diff=1278,query=114687)
+INFO: the master set (75939) couldn't be reached (diff=1269,query=114716)
+INFO: the master set (54530) couldn't be reached (diff=1839,query=114753)
+INFO: the master set (69967) couldn't be reached (diff=1467,query=114930)
+INFO: the master set (14893) couldn't be reached (diff=2689,query=114931)
+INFO: the master set (6798) couldn't be reached (diff=2984,query=114974)
+INFO: the master set (46917) couldn't be reached (diff=2010,query=114986)
+INFO: the master set (4398) couldn't be reached (diff=2841,query=115081)
+INFO: the master set (48666) couldn't be reached (diff=1596,query=115094)
+INFO: the master set (54946) couldn't be reached (diff=1853,query=115123)
+INFO: the master set (52190) couldn't be reached (diff=1922,query=115220)
+INFO: the master set (23120) couldn't be reached (diff=2519,query=115236)
+INFO: the master set (28332) couldn't be reached (diff=2375,query=115244)
+INFO: the master set (28351) couldn't be reached (diff=2376,query=115277)
+INFO: the master set (22961) couldn't be reached (diff=1498,query=115278)
+INFO: the master set (50683) couldn't be reached (diff=1976,query=115509)
+INFO: the master set (72837) couldn't be reached (diff=1427,query=115638)
+INFO: the master set (34455) couldn't be reached (diff=2250,query=115664)
+INFO: the master set (17479) couldn't be reached (diff=2676,query=115733)
+INFO: the master set (5930) couldn't be reached (diff=1493,query=115796)
+INFO: the master set (70403) couldn't be reached (diff=1511,query=115884)
+INFO: the master set (34937) couldn't be reached (diff=2250,query=115887)
+INFO: the master set (4914) couldn't be reached (diff=1136,query=115953)
+INFO: the master set (14121) couldn't be reached (diff=2776,query=116034)
+INFO: the master set (84396) couldn't be reached (diff=1098,query=116065)
+INFO: the master set (35901) couldn't be reached (diff=2250,query=116165)
+INFO: the master set (27793) couldn't be reached (diff=1201,query=116169)
+INFO: the master set (5541) couldn't be reached (diff=3123,query=116206)
+INFO: the master set (54487) couldn't be reached (diff=1928,query=116211)
+INFO: the master set (56268) couldn't be reached (diff=1895,query=116233)
+INFO: the master set (63864) couldn't be reached (diff=1735,query=116268)
+
+Elapsed time = 621
+Recall...
+TOP( 1)( 1209/ 4664)=0.259220
+TOP( 2)( 1591/ 4664)=0.341123
+TOP( 3)( 1840/ 4664)=0.394511
+TOP( 4)( 2020/ 4664)=0.433105
+TOP( 5)( 2124/ 4664)=0.455403
+TOP( 6)( 2222/ 4664)=0.476415
+TOP( 7)( 2289/ 4664)=0.490780
+TOP( 8)( 2356/ 4664)=0.505146
+TOP( 9)( 2406/ 4664)=0.515866
+TOP(10)( 2461/ 4664)=0.527659
+TOP(11)( 2497/ 4664)=0.535377
+TOP(12)( 2538/ 4664)=0.544168
+TOP(13)( 2577/ 4664)=0.552530
+TOP(14)( 2621/ 4664)=0.561964
+TOP(15)( 2653/ 4664)=0.568825
+TOP(16)( 2686/ 4664)=0.575901
+TOP(17)( 2715/ 4664)=0.582118
+TOP(18)( 2740/ 4664)=0.587479
+TOP(19)( 2770/ 4664)=0.593911
+TOP(20)( 2791/ 4664)=0.598413
+Recall...
+0.259220
+0.341123
+0.394511
+0.433105
+0.455403
+0.476415
+0.490780
+0.505146
+0.515866
+0.527659
+0.535377
+0.544168
+0.552530
+0.561964
+0.568825
+0.575901
+0.582118
+0.587479
+0.593911
+0.598413
+MAP = 0.350713
+
+
+
+Average Average Recall...
+TOP( 1)=0.259220
+TOP( 2)=0.341123
+TOP( 3)=0.394511
+TOP( 4)=0.433105
+TOP( 5)=0.455403
+TOP( 6)=0.476415
+TOP( 7)=0.490780
+TOP( 8)=0.505146
+TOP( 9)=0.515866
+TOP(10)=0.527659
+TOP(11)=0.535377
+TOP(12)=0.544168
+TOP(13)=0.552530
+TOP(14)=0.561964
+TOP(15)=0.568825
+TOP(16)=0.575901
+TOP(17)=0.582118
+TOP(18)=0.587479
+TOP(19)=0.593911
+TOP(20)=0.598413
+Average Average Recall...
+0.259220
+0.341123
+0.394511
+0.433105
+0.455403
+0.476415
+0.490780
+0.505146
+0.515866
+0.527659
+0.535377
+0.544168
+0.552530
+0.561964
+0.568825
+0.575901
+0.582118
+0.587479
+0.593911
+0.598413
+Average MAP = 0.350713

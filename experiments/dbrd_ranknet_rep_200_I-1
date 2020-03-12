@@ -1,0 +1,132 @@
+====================================================================
+--Started at Mon Aug 12 22:13:58 2019
+--Dataset file = /home/irving/workspace/duplicate_bug_report/dataset/nguyen_2012/eclipse/dbrd_validation.txt
+--Total Iterations = 1
+--Indexing Type = NO_INDEXING
+====================================================================
+
+
+Iteration 1
+Random seed = 194676992
+INFO: #reports = 45794
+RankNet Detector
+INFO: skipped reports [(200)duplicate/(5678)all]
+INFO: RankNet: building training pairs...
+INFO: RankNet: built 16020 training pairs.
+INFO: RankNet: built 0 validating pairs.
+
+[unigram] BM25F Parameter...
+[total weight, fixed = 0] = 0.840957
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 3.022753
+[summary b, fixed = 1] = 0.684903
+[description weight, fixed = 1] = 0.121101
+[description b, fixed = 1] = 0.990377
+[k3, fixed = 0] = 0.256187
+
+[bigram] BM25F Parameter...
+[total weight, fixed = 0] = 0.000003
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 3.010913
+[summary b, fixed = 1] = 0.513866
+[description weight, fixed = 1] = 0.702721
+[description b, fixed = 1] = 0.999966
+[k3, fixed = 0] = 0.000000
+
+Surface weights...
+[component weight, fixed = 0] = 3.146462
+[sub component weight, fixed = 0] = 2.217585
+[report type weight, fixed = 0] = 0.005696
+[priority weight, fixed = 0] = 0.138327
+[version weight, fixed = 1] = 0.000000
+
+Elapsed time = 87
+Recall...
+TOP( 1)( 1327/ 2936)=0.451975
+TOP( 2)( 1598/ 2936)=0.544278
+TOP( 3)( 1745/ 2936)=0.594346
+TOP( 4)( 1848/ 2936)=0.629428
+TOP( 5)( 1923/ 2936)=0.654973
+TOP( 6)( 1977/ 2936)=0.673365
+TOP( 7)( 2030/ 2936)=0.691417
+TOP( 8)( 2071/ 2936)=0.705381
+TOP( 9)( 2099/ 2936)=0.714918
+TOP(10)( 2123/ 2936)=0.723093
+TOP(11)( 2152/ 2936)=0.732970
+TOP(12)( 2181/ 2936)=0.742847
+TOP(13)( 2197/ 2936)=0.748297
+TOP(14)( 2216/ 2936)=0.754768
+TOP(15)( 2242/ 2936)=0.763624
+TOP(16)( 2262/ 2936)=0.770436
+TOP(17)( 2272/ 2936)=0.773842
+TOP(18)( 2282/ 2936)=0.777248
+TOP(19)( 2297/ 2936)=0.782357
+TOP(20)( 2313/ 2936)=0.787807
+Recall...
+0.451975
+0.544278
+0.594346
+0.629428
+0.654973
+0.673365
+0.691417
+0.705381
+0.714918
+0.723093
+0.732970
+0.742847
+0.748297
+0.754768
+0.763624
+0.770436
+0.773842
+0.777248
+0.782357
+0.787807
+MAP = 0.545767
+
+
+
+Average Average Recall...
+TOP( 1)=0.451975
+TOP( 2)=0.544278
+TOP( 3)=0.594346
+TOP( 4)=0.629428
+TOP( 5)=0.654973
+TOP( 6)=0.673365
+TOP( 7)=0.691417
+TOP( 8)=0.705381
+TOP( 9)=0.714918
+TOP(10)=0.723093
+TOP(11)=0.732970
+TOP(12)=0.742847
+TOP(13)=0.748297
+TOP(14)=0.754768
+TOP(15)=0.763624
+TOP(16)=0.770436
+TOP(17)=0.773842
+TOP(18)=0.777248
+TOP(19)=0.782357
+TOP(20)=0.787807
+Average Average Recall...
+0.451975
+0.544278
+0.594346
+0.629428
+0.654973
+0.673365
+0.691417
+0.705381
+0.714918
+0.723093
+0.732970
+0.742847
+0.748297
+0.754768
+0.763624
+0.770436
+0.773842
+0.777248
+0.782357
+0.787807
+Average MAP = 0.545767

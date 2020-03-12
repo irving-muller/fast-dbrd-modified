@@ -1,0 +1,19 @@
+nohup: ignoring input
+reading reports from /home/irving/workspace/duplicate_bug_report/dataset/sun_2011/netbeans_2001-2007_2008/dbrd_test.txt...
+reading time-stamps from /home/irving/workspace/duplicate_bug_report/dataset/sun_2011/netbeans_2001-2007_2008/timestamp_file.txt...
+Iteration 1
+INFO: skipped reports [(17514)duplicate/(121897)all]
+INFO: RankNet: building training pairs...
+INFO: RankNet: report repository size = 121900
+INFO: RankNet: report bucket count = 104386
+INFO: RankNet: master report count = 104386
+INFO: RankNet: built 120780 training pairs.
+INFO: RankNet: built 0 validating pairs.
+................................................................................   1600
+................................................................................   3200
+................................................................................   4800
+..........
+Elapsed time = 342
+
+
+

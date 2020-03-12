@@ -1,0 +1,22 @@
+nohup: ignoring input
+reading reports from /home/irving/workspace/duplicate_bug_report/dataset/sun_2011/mozilla_2001-2009_2010/dbrd_test.txt...
+reading time-stamps from /home/irving/workspace/duplicate_bug_report/dataset/sun_2011/mozilla_2001-2009_2010/timestamp_file.txt...
+Iteration 1
+INFO: skipped reports [(128630)duplicate/(482797)all]
+INFO: RankNet: building training pairs...
+INFO: RankNet: report repository size = 482820
+INFO: RankNet: report bucket count = 354190
+INFO: RankNet: master report count = 354190
+INFO: RankNet: built 972720 training pairs.
+INFO: RankNet: built 0 validating pairs.
+................................................................................   1600
+................................................................................   3200
+................................................................................   4800
+................................................................................   6400
+................................................................................   8000
+................................................................................   9600
+.....
+Elapsed time = 3075
+
+
+
