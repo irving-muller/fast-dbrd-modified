@@ -3,9 +3,9 @@
 We made small modifications to the fast-dbrd code in order to compare REP and BM25F_ext to SABD (Soft Alignment Model for Bug Deduplication).
 
 The modifications are  summarized as follows:
-⋅⋅* The seed are randomly chosen.
-⋅⋅* Print in the log when a duplicate bug report was not reached in a specifin time window.
-⋅⋅* We train the model even though all the reports are in the training dataset.
+* The seed are randomly chosen.
+* Print in the log when a duplicate bug report was not reached in a specifin time window.
+* We train the model even though all the reports are in the training dataset.
 
 
 Original code can be found [here](https://chengniansun.bitbucket.io/projects/bug-report/fast-dbrd.tgz).
