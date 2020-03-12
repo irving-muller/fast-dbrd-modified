@@ -1,6 +1,6 @@
 # fast-dbrd-modified
 
-We made small modifications to the original of fast-dbrd in order to compare REP and BM25F_ext to SABD (Soft Alignment Model for Bug Deduplication).
+We made small modifications to the fast-dbrd code in order to compare REP and BM25F_ext to SABD (Soft Alignment Model for Bug Deduplication).
 
 The modifications are  summarized as follows:
 ⋅⋅* The seed are randomly chosen.
